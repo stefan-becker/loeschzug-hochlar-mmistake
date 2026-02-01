@@ -1,6 +1,15 @@
 ---
 layout: post
-author: stefanbecker
+image:
+  path: /images/post-image-lg.jpg
+  thumbnail: /images/post-image-th.jpg
+  caption: "Photo credit [Unsplash](https://unsplash.com/)"
+  # post specific author data if different from what is set in _config.yml
+author:
+  name: John Doe
+  picture: /images/john-doe.jpg
+  twitter: johndoe
+
 ---
 <h1>Impresssum</h1>
 
