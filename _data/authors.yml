@@ -1,16 +1,16 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Stefan Becker:
+  name: Stefan Becker 
+  picture: #images/bio-photo-2.jpg
+  twitter: "@stefanshome"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/stefanshome
       icon: fab fa-twitter-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
+Jan Zindel:
+  name: Jan Zindel
   picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+  twitter: jan_zindel

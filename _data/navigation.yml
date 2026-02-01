@@ -2,13 +2,16 @@
 
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
+- title: Aktuelles
+  url: https://www.facebook.com/lz.hochlar
+- title: Einsätze
+  url: https://www.kreis-re.de/Inhalte/Buergerservice/Leben_und_Wohnen/Feuerwehr-_und_Rettungsleitstelle/_Einsaetze_der_Feuerwehren/index.asp
+- title: Mitmachen
+  url: /mitmachen/
+- title: Förderverein
+  url: /foerderverein/
+- title: Kontakt
+  url: /kontakt/
 #   url: /recipes/
 # - title: Search
 #   url: /search/
