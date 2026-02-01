@@ -18,12 +18,12 @@ Feuerwehr Recklinghausen
 Kurt-Schumacher-Allee 2  
 45657 Recklinghausen  
 
-Telefon +49-(0)2361-50 3030
-E-Mail feuerwehr@recklinghausen.de
+Telefon +49-(0)2361-50 3030  
+E-Mail feuerwehr@recklinghausen.de  
 
 Internet <a href="http://www.recklinghausen.de" target="_blank">www.recklinghausen.de</a> &amp; <a href="http://www.feuerwehr-recklinghausen.de" target="_blank">www.feuerwehr-recklinghausen.de</a>
 
-Die Stadt Recklinghausen ist eine Körperschaft des Öffentlichen Rechts.
+Die Stadt Recklinghausen ist eine Körperschaft des Öffentlichen Rechts.  
 Sie wird vertreten durch den Bürgermeister Axel Tschersich.
 
 Umsatzsteuer-Identifikationsnummer: DE 126341508
