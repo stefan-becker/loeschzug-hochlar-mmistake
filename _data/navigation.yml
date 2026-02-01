@@ -3,7 +3,7 @@
 - title: Home
   url: /
 - title: Mitmachen
-  url: /mitmachen/
+  url: /mitmachen/ {:target="_blank"}
 - title: Förderverein
   url: /foerderverein/
 - title: Tanz in den Mai
