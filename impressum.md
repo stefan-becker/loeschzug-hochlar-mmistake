@@ -1,9 +1,9 @@
 ---
 layout: post
 image:
-  path: /images/post-image-lg.jpg
-  thumbnail: /images/post-image-th.jpg
-  caption: "Photo credit [Unsplash](https://unsplash.com/)"
+  path: /assets/img/impressum.jpg
+  thumbnail: /assets/img/impressum-th.jpg
+  caption: "Foto mit Microsoft Copilot erzeugt"
   # post specific author data if different from what is set in _config.yml
 author:
   name: John Doe
