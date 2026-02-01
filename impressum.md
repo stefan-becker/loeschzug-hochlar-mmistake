@@ -4,7 +4,7 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-#Impresssum
+<h1>Impresssum</h1>
 
 Stadt Recklinghausen
 
@@ -20,7 +20,7 @@ Telefon +49-(0)2361-50 3030
 
 E-Mail feuerwehr@recklinghausen.de
 
-Internet [http://www.recklinghausen.de&lm]www.recklinghausen.de, [http://www.recklinghausen.eu&lm]www.recklinghausen.eu [http://www.feuerwehr-recklinghausen.de]www.feuerwehr-recklinghausen.de
+Internet <a href="http://www.recklinghausen.de" target="_blank">www.recklinghausen.de <a href="http://www.feuerwehr-recklinghausen.de" target="_blank">www.feuerwehr-recklinghausen.de</a>
 
  
 
