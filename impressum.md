@@ -1,6 +1,6 @@
 ---
 layout: post
-author: stefanbecker
+#author: stefanbecker
 ---
 <h1>Impresssum</h1>
 
