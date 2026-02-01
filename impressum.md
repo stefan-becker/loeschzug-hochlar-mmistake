@@ -26,7 +26,7 @@ Internet [http://www.recklinghausen.de&lm]www.recklinghausen.de, [http://www.rec
 
 Die Stadt Recklinghausen ist eine Körperschaft des Öffentlichen Rechts.
 
-Sie wird vertreten durch den Bürgermeister Christoph Tesche.
+Sie wird vertreten durch den Bürgermeister Axel Tschersich.
 
  
 
@@ -36,4 +36,4 @@ Umsatzsteuer-Identifikationsnummer: DE 126341508
 
 Inhaltlich Verantwortlicher im Sinne des Rundfunk-Staatsvertrages (§ 55 Abs. 2 RVSTV):
 
-Leiter der Feuerwehr Ltd .BD Dipl.-Ing. Thorsten Schild“
+Leiter der Feuerwehr Ltd .BD Dipl.-Ing. Thorsten Schild
