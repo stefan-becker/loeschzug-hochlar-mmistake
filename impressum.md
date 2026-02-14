@@ -5,10 +5,10 @@ layout: post
 #  thumbnail: /assets/img/impressum-th.jpg
 #  caption: "Foto mit Microsoft Copilot erzeugt"
   # post specific author data if different from what is set in _config.yml
-#author:
-#  name: Stefan Becker
-#  picture: /images/john-doe.jpg
-#  twitter: 
+author:
+  name: Stefan Becker
+  picture: /images/john-doe.jpg
+  twitter: 
 
 ---
 <h1>Impresssum</h1>
