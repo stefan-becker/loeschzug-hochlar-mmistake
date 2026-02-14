@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 image:
   path: /assets/img/impressum.jpg
   thumbnail: /assets/img/impressum-th.jpg
