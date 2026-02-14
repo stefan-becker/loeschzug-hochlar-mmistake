@@ -1,14 +1,14 @@
 ---
-layout: posts
-image:
-  path: /assets/img/impressum.jpg
-  thumbnail: /assets/img/impressum-th.jpg
-  caption: "Foto mit Microsoft Copilot erzeugt"
+layout: post
+# image:
+#  path: /assets/img/impressum.jpg
+#  thumbnail: /assets/img/impressum-th.jpg
+#  caption: "Foto mit Microsoft Copilot erzeugt"
   # post specific author data if different from what is set in _config.yml
-author:
-  name: John Doe
-  picture: /images/john-doe.jpg
-  twitter: johndoe
+#author:
+#  name: Stefan Becker
+#  picture: /images/john-doe.jpg
+#  twitter: 
 
 ---
 <h1>Impresssum</h1>
