@@ -20,7 +20,7 @@ locale: de-DE
 title: "Website des Löschzug Hochlars"
 description: "24 Stunden, 365 Tage im Jahr für Sie da."
 baseurl: /loeschzug-hochlar-mmistake
-url: "https://www-lz-hochlar.de/"
+url: "https://www.lz-hochlar.de/"
 logo: "/assets/img/logo-hochlar.jpg" #path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
