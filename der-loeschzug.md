@@ -10,7 +10,7 @@ author:
   picture: /images/john-doe.jpg
   twitter: 
 title: "Über uns"
-permalink: /ueber-uns/
+permalink: /der-loeschzug/
 ---
 
 # Über uns – Löschzug Hochlar
