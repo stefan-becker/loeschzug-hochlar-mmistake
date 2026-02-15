@@ -9,11 +9,11 @@ author:
   name: Stefan Becker
   picture: /images/john-doe.jpg
   twitter: 
-title: "Über uns"
+title: "Der Löschzug Hochlar"
 permalink: /der-loeschzug/
 ---
 
-# Über uns – Löschzug Hochlar
+# Über uns
 
 Der Löschzug Hochlar der Freiwilligen Feuerwehr Recklinghausen steht seit über 125 Jahren für zuverlässigen Brandschutz, technische Hilfeleistung und gelebte Kameradschaft im Stadtteil Hochlar und darüber hinaus.  
 Unter der Führung von **Löschzugführer Tobias Boelker** und seinem Stellvertreter **Stephan Koslitz** engagieren wir uns rund um die Uhr für die Sicherheit der Bürgerinnen und Bürger.
@@ -23,7 +23,6 @@ Unter der Führung von **Löschzugführer Tobias Boelker** und seinem Stellvertr
 Zum Jahresende 2025 besteht der Löschzug Hochlar aus:
 
 - **44 aktiven Feuerwehrangehörigen**  
-- **2 beurlaubten Kräften**  
 - **14 Mitgliedern der Ehrenabteilung**  
 - **1 Jugendfeuerwehrmitglied**
 
@@ -36,7 +35,7 @@ Im Gerätehaus an der Averdunkstraße stehen uns moderne Einsatzmittel zur Verf�
 - **HLF 20**  
 - **LF 20**  
 - **MTF**  
-- **Historische Tragkraftspritze**
+- **Historische Tragkraftspritze - kein aktives Gerät**
 
 Damit sind wir für Brände, technische Hilfeleistungen und besondere Gefahrenlagen bestens gerüstet.
 
