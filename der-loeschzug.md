@@ -11,7 +11,7 @@ author:
   twitter: 
 
 ---
-## **Über uns – Löschzug Hochlar**
+**Über uns – Löschzug Hochlar**
 
 Der Löschzug Hochlar der Freiwilligen Feuerwehr Recklinghausen steht seit über 125 Jahren für zuverlässigen Brandschutz, technische Hilfeleistung und gelebte Kameradschaft im Stadtteil Hochlar und darüber hinaus. Mit modernster Technik, hoher Einsatzbereitschaft und starkem Gemeinschaftsgeist engagieren wir uns Tag und Nacht für die Sicherheit der Bürgerinnen und Bürger.
 
