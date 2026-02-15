@@ -11,7 +11,7 @@ author:
   twitter: 
 
 ---
-# **Über uns – Löschzug Hochlar**
+## **Über uns – Löschzug Hochlar**
 
 Der Löschzug Hochlar der Freiwilligen Feuerwehr Recklinghausen steht seit über 125 Jahren für zuverlässigen Brandschutz, technische Hilfeleistung und gelebte Kameradschaft im Stadtteil Hochlar und darüber hinaus. Mit modernster Technik, hoher Einsatzbereitschaft und starkem Gemeinschaftsgeist engagieren wir uns Tag und Nacht für die Sicherheit der Bürgerinnen und Bürger.
 
@@ -23,7 +23,7 @@ Unsere Mannschaft setzt sich aus engagierten Feuerwehrfrauen und -männern unter
 
 ## **Unsere Ausstattung**
 
-Im Gerätehaus an der Averdunkstraße stehen uns leistungsstarke Einsatzfahrzeuge und technische Geräte zur Verfügung:
+Im Gerätehaus an der Averdunkstraße 1 45659 Recklinghausen stehen uns leistungsstarke Einsatzfahrzeuge und technische Geräte zur Verfügung:
 
 *   **HLF 20**
 *   **LF 20**
@@ -47,7 +47,7 @@ Mehrere Kameraden absolvierten erfolgreich Fachlehrgänge – vom Funk- und Atem
 *   ein beeindruckender Feuerwehr-Erlebnistag mit spektakulären Stunt‑Vorführungen, Pyrotechnik, Kinderaktionen und Ausstellungstechnik
 *   ein festlicher Jubiläumsabend im Festspielhaus
 *   die traditionelle Heinrichsübung
-*   Teilnahme an Leistungswettkämpfen, Gemeinschaftsübungen und kirchlichen Veranstaltungen
+*   Teilnahme an Leistungsnachweis, Gemeinschaftsübungen und kirchlichen Veranstaltungen
 *   zahlreiche Aktivitäten zur Kameradschaftspflege – vom Tanz in den Mai über den Zapfenstreich bis hin zur gemeinsamen Advents-Schifffahrt
 
 Diese Ereignisse zeigen: Einsatzbereitschaft ist wichtig – aber Zusammenhalt macht uns besonders.
