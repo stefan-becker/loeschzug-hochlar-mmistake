@@ -9,9 +9,9 @@ author:
   name: Stefan Becker
   picture: /images/john-doe.jpg
   twitter: 
-
+title: "Impressum"
+permalink: /impressum/
 ---
-<h1>Impresssum</h1>
 
 Stadt Recklinghausen  
 Feuerwehr Recklinghausen  
