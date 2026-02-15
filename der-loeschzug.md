@@ -17,7 +17,7 @@ Der Löschzug Hochlar der Freiwilligen Feuerwehr Recklinghausen steht seit über
 
 ## **Unsere Mannschaft**
 
-Zum Jahresende 2025 zählt der Löschzug Hochlar **44 aktive Feuerwehrangehörige**, 2 beurlaubte Kräfte sowie 14 Mitglieder in der Ehrenabteilung. Zusätzlich ist ein Jugendfeuerwehrmitglied aktiv und sichert so den Nachwuchs für die Zukunft.
+Zum Jahresende 2025 zählt der Löschzug Hochlar **44 aktive Feuerwehrangehörige** und 14 Mitglieder in der Ehrenabteilung. Zusätzlich ist ein Jugendfeuerwehrmitglied aktiv und sichert so den Nachwuchs für die Zukunft.
 
 Unsere Mannschaft setzt sich aus engagierten Feuerwehrfrauen und -männern unterschiedlicher Dienstgrade zusammen – vom Feuerwehrmannanwärter bis hin zu erfahrenen Stadtbrandinspektoren. Auch in diesem Jahr konnten wir ein neues Mitglied begrüßen und mussten glücklicherweise keine Austritte verzeichnen.
 
