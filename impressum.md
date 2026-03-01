@@ -7,6 +7,7 @@ layout: post
   # post specific author data if different from what is set in _config.yml
 title: "Impressum"
 permalink: /impressum/
+author: stefan_becker
 ---
 
 Stadt Recklinghausen  
