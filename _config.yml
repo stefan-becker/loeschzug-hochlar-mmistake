@@ -104,7 +104,7 @@ author:
 footer_links:
   - title: Feed
     url: atom.xml
-    icon: /assets/img/rss.png
+    icon: /assets/img/rss-solid.png
   - title: Facebook
     url: https://www.facebook.com/lzhochlar
     icon: fab fa-facebook-square  
