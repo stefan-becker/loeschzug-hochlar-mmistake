@@ -6,7 +6,22 @@
     https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
 -->
 <html lang="{{ page.lang | default: site.lang | default: 'de-DE' }}" class="no-js">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; form-action 'self'; object-src 'none'; frame-ancestors 'none'; upgrade-insecure-requests">
+<meta http-equiv="Content-Security-Policy"
+      content="
+default-src 'self';
+script-src 'self' https://code.jquery.com
+  'sha256-3g1LqjxBsnHDZDBClfZSiNNDtd7ZmWOaGxnG1WReEe4='
+  'sha256-T0gtsIXRTceJOOQO3DXQFrLjuoFretgUZit1WyYnwg0=';
+style-src 'self' https://fonts.googleapis.com;
+font-src 'self' https://fonts.gstatic.com;
+img-src 'self' data:;
+connect-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com;
+base-uri 'self';
+form-action 'self';
+object-src 'none';
+frame-ancestors 'none';
+upgrade-insecure-requests
+">
   {% include head.html %}
   {% include scripts.html %}
 
