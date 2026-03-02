@@ -107,7 +107,7 @@ footer_links:
     icon: /assets/img/rss-solid.png
   - title: Facebook
     url: https://www.facebook.com/lzhochlar
-    icon: fab fa-facebook-square  
+    icon: /assets/img/facebook-brands-solid.png
   - title: instagram
     url: https://www.instagram.com/lzhochlar/
     icon: fab fa-instagram
