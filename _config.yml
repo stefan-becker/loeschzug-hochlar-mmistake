@@ -17,7 +17,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: de-DE
-title: "Website des Löschzug Hochlars"
+title: "Löschzug Hochlars"
 description: "24 Stunden, 365 Tage im Jahr für Sie da."
 baseurl: /
 url: "https://www.lz-hochlar.de"
@@ -104,7 +104,7 @@ author:
 footer_links:
   - title: Feed
     url: atom.xml
-    icon: fas fa-rss-square
+    icon: /assets/img/rss.png
   - title: Facebook
     url: https://www.facebook.com/lzhochlar
     icon: fab fa-facebook-square  
