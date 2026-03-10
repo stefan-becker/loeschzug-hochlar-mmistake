@@ -5,6 +5,8 @@ show_excerpts: true
 entries_layout: list
 categories:
   - Datenschutz
+last_modified_at: 2026-03-10T10:27:01-05:00
+excerpt: "Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag."
 ---
 
 # Datenschutzerklärung
