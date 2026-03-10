@@ -8,7 +8,7 @@ layout: post
 title: "Impressum"
 permalink: /impressum/
 author: stefan_becker
-date: 2015-08-10T08:08:50-04:00
+date: 2026-03-10T16:49:50+01:00
 categories:
   - Impressum
 ---
