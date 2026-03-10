@@ -9,8 +9,8 @@ title: "Impressum"
 permalink: /impressum/
 author: stefan_becker
 date: 2026-03-10T16:49:50+01:00
-categories:
-  - Impressum
+#categories:
+# - Impressum
 ---
 
 Stadt Recklinghausen  
