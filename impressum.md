@@ -11,7 +11,6 @@ author: stefan_becker
 categories:
   - Impressum
 last_modified_at: 2018-01-31T14:28:50-05:00
-excerpt: "Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag."
 ---
 
 Stadt Recklinghausen  
