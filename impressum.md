@@ -8,9 +8,9 @@ layout: post
 title: "Impressum"
 permalink: /impressum/
 author: stefan_becker
+last_modified_at: 2018-01-31T14:28:50-05:00
 categories:
   - Impressum
-last_modified_at: 2018-01-31T14:28:50-05:00
 ---
 
 Stadt Recklinghausen  
