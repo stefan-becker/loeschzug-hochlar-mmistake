@@ -1,8 +1,7 @@
 ---
-layout: page
-limit: 10
-show_excerpts: true
-entries_layout: list
+layout: category
+taxonomy: Impressum
+entries_layout: grid
 ---
 #Mitmachen
 
