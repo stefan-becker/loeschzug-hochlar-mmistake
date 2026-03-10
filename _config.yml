@@ -22,7 +22,7 @@ description: "24 Stunden, 365 Tage im Jahr für Sie da."
 baseurl: /
 url: "https://www.lz-hochlar.de"
 logo: "/assets/img/logo-hochlar.webp" #path of site logo, e.g. "/images/logo.png"
-date_format: "%B %-d, %Y"
+date_format: "%-d %B %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax:
