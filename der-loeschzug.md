@@ -5,8 +5,7 @@ permalink: /der-loeschzug/
 author: stefan_becker
 date: 2026-03-14T17:05:50+01:00
 categories:
- - Loeschzug
- - Feuerwehr
+  - Edge Case
 ---
 
 # Über uns
