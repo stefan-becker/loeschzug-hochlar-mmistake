@@ -104,10 +104,10 @@ author:
 footer_links:
   - title: Feed
     url: atom.xml
-    icon: /assets/img/rss-solid.png
+    icon: /assets/img/rss-solid.webp
   - title: Facebook
     url: https://www.facebook.com/lzhochlar
-    icon: /assets/img/facebook-brands-solid.png
+    icon: /assets/img/facebook-brands-solid.webp
   - title: instagram
     url: https://www.instagram.com/lzhochlar/
-    icon: /assets/img/square-instagram-brands-solid.png
+    icon: /assets/img/square-instagram-brands-solid.webp
