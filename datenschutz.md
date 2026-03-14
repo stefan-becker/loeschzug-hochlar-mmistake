@@ -1,12 +1,16 @@
 ---
 layout: post
-limit: 10
-show_excerpts: true
-entries_layout: list
-categories:
-  - Datenschutz
-last_modified_at: 2026-03-10T10:27:01-05:00
-excerpt: "Post displaying the various ways one can highlight code blocks with Jekyll. Some options include standard Markdown, GitHub Flavored Markdown, and Jekyll's `{% highlight %}` tag."
+# image:
+#  path: /assets/img/impressum.jpg
+#  thumbnail: /assets/img/impressum-th.jpg
+#  caption: "Foto mit Microsoft Copilot erzeugt"
+  # post specific author data if different from what is set in _config.yml
+title: "Datenschutz"
+permalink: /datenschutz/
+author: stefan_becker
+date: 2026-03-14T17:05:50+01:00
+#categories:
+# - Impressum
 ---
 
 # Datenschutzerklärung
@@ -15,9 +19,24 @@ Wir freuen uns über Ihr Interesse an unserer Website. Der Schutz Ihrer personen
 
 ## Verantwortlicher
 
-Feuerwehr Recklinghausen Löschzug Hochlar  
-Adresse: Averdunkstraße 1, 45659 Recklinghausen  
-E-Mail: info@lz-hochlar.de
+Stadt Recklinghausen  
+Feuerwehr Recklinghausen  
+Kurt-Schumacher-Allee 2  
+45657 Recklinghausen  
+
+Telefon +49-(0)2361-50 3030  
+E-Mail feuerwehr@recklinghausen.de  
+
+Internet <a href="http://www.recklinghausen.de" target="_blank">www.recklinghausen.de</a> &amp; <a href="http://www.feuerwehr-recklinghausen.de" target="_blank">www.feuerwehr-recklinghausen.de</a>
+
+Die Stadt Recklinghausen ist eine Körperschaft des Öffentlichen Rechts.  
+Sie wird vertreten durch den Bürgermeister Axel Tschersich.
+
+Umsatzsteuer-Identifikationsnummer: DE 126341508
+
+Inhaltlich Verantwortlicher im Sinne des Rundfunk-Staatsvertrages (§ 55 Abs. 2 RVSTV):
+
+Leiter der Feuerwehr Ltd .BD Dipl.-Ing. Thorsten Schild
 
 ## Hosting
 
