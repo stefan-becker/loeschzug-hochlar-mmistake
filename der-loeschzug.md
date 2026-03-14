@@ -1,16 +1,11 @@
 ---
-layout: post
-# image:
-#  path: /assets/img/impressum.jpg
-#  thumbnail: /assets/img/impressum-th.jpg
-#  caption: "Foto mit Microsoft Copilot erzeugt"
-  # post specific author data if different from what is set in _config.yml
-author:
-  name: Stefan Becker
-  picture: /images/john-doe.jpg
-  twitter: 
 title: "Der Löschzug Hochlar"
 permalink: /der-loeschzug/
+author: stefan_becker
+date: 2026-03-14T17:05:50+01:00
+categories:
+ - Löschzug
+ - Brandschutz
 ---
 
 # Über uns
