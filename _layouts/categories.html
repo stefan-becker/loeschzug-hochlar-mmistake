@@ -4,6 +4,9 @@ layout: page
 
 {{ content }}
 
+<!-- Test, ob diese HTML Seite geladen wird -->
+ <h1>Dies ist ein Test, ob die richtige HTML-Seite geladen wird</h1>
+
 {% assign categories_max = 0 %}
 {% for category in site.categories %}
   {% if category[1].size > categories_max %}
