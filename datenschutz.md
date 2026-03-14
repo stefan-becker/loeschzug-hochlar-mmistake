@@ -5,16 +5,13 @@ layout: post
 #  thumbnail: /assets/img/impressum-th.jpg
 #  caption: "Foto mit Microsoft Copilot erzeugt"
   # post specific author data if different from what is set in _config.yml
-title: "Datenschutz"
+title: "Datenschutzerklärung"
 permalink: /datenschutz/
 author: stefan_becker
 date: 2026-03-14T17:05:50+01:00
 #categories:
 # - Impressum
 ---
-
-# Datenschutzerklärung
-
 Wir freuen uns über Ihr Interesse an unserer Website. Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen. Nachfolgend informieren wir Sie über die Verarbeitung personenbezogener Daten auf unserer Website.
 
 ## Verantwortlicher
