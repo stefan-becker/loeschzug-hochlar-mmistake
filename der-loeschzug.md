@@ -11,7 +11,7 @@ categories:
 # Über uns
 
 Der Löschzug Hochlar der Freiwilligen Feuerwehr Recklinghausen steht seit über 125 Jahren für zuverlässigen Brandschutz, technische Hilfeleistung und gelebte Kameradschaft im Stadtteil Hochlar und darüber hinaus.  
-Unter der Führung von **Löschzugführer Tobias Boelker** und seinem Stellvertreter **Stephan Koslitz** engagieren wir uns rund um die Uhr für die Sicherheit der Bürgerinnen und Bürger.
+Unter der Führung von **Löschzugführer Tobias Boelker** und seinem Stellvertreter **Dr. Stephan Koslitz** engagieren wir uns rund um die Uhr für die Sicherheit der Bürgerinnen und Bürger.
 
 ## Unsere Mannschaft
 
