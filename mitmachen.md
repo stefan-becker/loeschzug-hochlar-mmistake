@@ -1,7 +1,7 @@
 ---
 title: Mitmachen
 layout: categories
-permalink: /categories/edge-case/
+permalink: /mitmachen/
 ---
 
 Sample post listing for the category `Edge Case`.

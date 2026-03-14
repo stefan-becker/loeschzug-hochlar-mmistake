@@ -6,7 +6,7 @@ author: stefan_becker
 date: 2026-03-14T17:05:50+01:00
 categories:
  - Löschzug
- - Brandschutz
+ - Feuerwehr
 ---
 
 # Über uns
