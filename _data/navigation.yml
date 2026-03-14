@@ -16,9 +16,10 @@
   url: /foerderverein/
 - title: Tanz in den Mai
   url: /tanz-in-den-mai/
-  url: /einsaetze/
 - title: Kontakt
   url: /kontakt/
+- title: Categories
+  url: /categories/
 
 #   url: /recipes/
 # - title: Search
