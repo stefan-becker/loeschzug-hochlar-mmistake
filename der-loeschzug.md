@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Der Löschzug Hochlar"
 permalink: /der-loeschzug/
 author: stefan_becker
